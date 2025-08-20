@@ -124,11 +124,6 @@ git push -u origin main
   - A few screenshots of CLI and API results.
   - Link to your GitHub repo.
 
-## 10) Email submission
-Send your GitHub/LinkedIn link + Offer Letter to **vaishali@codectechnologies.in**.
-
----
-
 ### Notes
 - This is for **education** and **defensive security** only.
 - VirusTotal usage is optional; without a key, the scanner still works with heuristics + ML.
