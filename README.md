@@ -106,24 +106,6 @@ email-security-gateway/
   └─ README.md
 ```
 
-## 8) Publish to GitHub
-```powershell
-# Create a new repo on GitHub first (empty)
-
-git init
-git add .
-git commit -m "Email Security Gateway MVP"
-git branch -M main
-git remote add origin https://github.com/<your-username>/email-security-gateway.git
-git push -u origin main
-```
-
-## 9) Share on LinkedIn
-- Create a post with:
-  - Project summary and what you learned (headers, URLs, ML, VirusTotal).
-  - A few screenshots of CLI and API results.
-  - Link to your GitHub repo.
-
 ### Notes
 - This is for **education** and **defensive security** only.
 - VirusTotal usage is optional; without a key, the scanner still works with heuristics + ML.
