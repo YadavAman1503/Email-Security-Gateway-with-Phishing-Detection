@@ -1,0 +1,13 @@
+From: Bank Secure <support@pay-secure.example>
+To: you@example.com
+Subject: URGENT: Verify your account now
+Date: Tue, 20 Aug 2024 10:00:00 +0530
+Message-ID: <9999@example.com>
+MIME-Version: 1.0
+Authentication-Results: spf=fail; dkim=none
+Content-Type: text/plain; charset="utf-8"
+
+Dear Customer,
+Your account has unusual activity. Verify your identity immediately:
+http://192.168.1.55/secure/verify
+Do not ignore this message.
